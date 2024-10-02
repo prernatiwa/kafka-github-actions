@@ -4,7 +4,7 @@
 * [Instructions](#instructions)
 * [Resources](#resources)
 
-## Overview
+## Overview.
 
 This demo uses GitHub Actions for developing and valiating Apache Kafka client application, focusing on a Python producer and consumer using Kafka Python Client, plus examples for testing [schema](schemas/) compatibility using both Python and Java.
 
